@@ -13,9 +13,8 @@ public class Methods {
 
      //3. example for a method with no parameter and has return type
      int nopar_ret(){
-         int age = 15;
          System.out.println("This method is an example for no parameter and return type method");
-         return age;
+         return 1;
      }
 
     //4. example for a method with  parameter and has return type
